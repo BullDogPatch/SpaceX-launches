@@ -1,5 +1,5 @@
 import React from "react";
-import LaunchCard from "./LaunchCard";
+import LaunchCard from "./components/LaunchCard";
 import "./style.css";
 
 function App() {

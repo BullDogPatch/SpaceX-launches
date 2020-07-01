@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import LaunchItem from "./components/LaunchItem";
+import LaunchItem from "./LaunchItem";
 import axios from "axios";
 
 function LaunchCard() {
